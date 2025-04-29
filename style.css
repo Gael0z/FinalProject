@@ -1,0 +1,29 @@
+.completed {
+    text-decoration: line-through;
+}
+.important {
+    background-color: red;
+}
+
+html{
+    height: 100%;
+    margin: 0;
+    
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 2%;
+    border-bottom-style: double;
+}
+
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
+
+span{
+    padding-top: 5%;
+}
